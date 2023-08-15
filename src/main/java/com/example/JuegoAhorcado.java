@@ -83,7 +83,7 @@ public class JuegoAhorcado {
                 }
             } else {
                 cantidadDeIntentos--;
-                System.out.println("Letra incorrecta. Cuidado!");
+                System.out.println("Letra incorrecta!");
             }
         }
 
