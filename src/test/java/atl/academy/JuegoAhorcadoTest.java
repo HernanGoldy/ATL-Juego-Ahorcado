@@ -1,4 +1,4 @@
-package com.example;
+package atl.academy;
 
 import org.junit.Before;
 import org.junit.Test;

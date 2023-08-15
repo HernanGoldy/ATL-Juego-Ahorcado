@@ -1,4 +1,4 @@
-package com.example;
+package atl.academy;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;
@@ -88,7 +88,7 @@ public class JuegoAhorcado {
         }
 
         if (getCantidadDeIntentos() == 0) {
-            System.out.println("Oh no! Te quedaste sin intentos. La palabra era: " + palabraSecreta);
+            System.out.println("Te quedaste sin intentos. La palabra era: " + palabraSecreta);
         }
     }
 
